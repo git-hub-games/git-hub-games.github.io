@@ -88,7 +88,7 @@ max-height: 800px !important;       /* Adjust as needed */
   padding: 15px 25px;
 }
 .navbar-nav .dropdown li {
-  background-color: #632f2f25 !important;
+  background-color: red !important;
 } 
 ul.user-links {
   background: #3b3255;
