@@ -8,4 +8,4 @@ Allow: /
 Allow: /pagead/js/adsense/
 
 # Sitemap
-Sitemap: https://faf-gamesunblocked.github.io/sitemap.xml
+Sitemap: https://git-hub-games.github.io/sitemap.xml
